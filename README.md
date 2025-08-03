@@ -2,14 +2,26 @@
 
 ### Full-Stack Developer with a Strong Engineering Background
 
-<a href="https://www.linkedin.com/in/kirill-novikov-312b73163/">
-  <img align="left" alt="Kirill Novikov | LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/white" />
+<a href="https://www.linkedin.com/in/kirill-novikov-312b73163/" style="margin-right: 8px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/linkedin.svg?color=white&width=24&height=24">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2&width=24&height=24">
+    <img align="left" alt="Kirill Novikov | LinkedIn" width="24px" height="24px" src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2&width=24&height=24">
+  </picture>
 </a>
-<a href="https://t.me/Kerbasi">
-  <img align="left" alt="Kirill Novikov | Telegram" width="24px" src="https://cdn.simpleicons.org/telegram/white" />
+<a href="https://t.me/Kerbasi" style="margin-right: 8px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/telegram.svg?color=white&width=24&height=24">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/telegram.svg?color=%2326A5E4&width=24&height=24">
+    <img align="left" alt="Kirill Novikov | Telegram" width="24px" height="24px" src="https://api.iconify.design/mdi/telegram.svg?color=%2326A5E4&width=24&height=24">
+  </picture>
 </a>
 <a href="mailto:kirill.novikov@gmail.com">
-  <img align="left" alt="Kirill Novikov | Email" width="24px" src="https://cdn.simpleicons.org/gmail/white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/gmail.svg?color=white&width=24&height=24">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/gmail.svg?color=%23EA4335&width=24&height=24">
+    <img align="left" alt="Kirill Novikov | Email" width="24px" height="24px" src="https://api.iconify.design/mdi/gmail.svg?color=%23EA4335&width=24&height=24">
+  </picture>
 </a>
 <br />
 <br />
@@ -137,20 +149,4 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
 - **Yandex Practicum** - *Web Developer* (Completed)
 - **Udemy** - *Advanced CSS and Sass* (2023)
 - **Harvard CS50** - *Introduction to Computer Science* (2020)
-- **Moscow Aviation Institute** - *Engineer's Degree* (2000 - 2006)
-
----
-
-### 🌐 Languages
-
-- **Russian:** Native
-- **English:** Upper-Intermediate (B2)
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerbasi&show_icons=true&theme=radical" alt="Kirill's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerbasi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- **Moscow Aviation Institute** - *Engineer's Degree* (2000 - 20
