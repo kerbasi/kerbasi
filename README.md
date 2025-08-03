@@ -53,7 +53,7 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css3/white">
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css3/black">
-        <img src="https://cdn.simpleicons.org/css3/black" alt="CSS3" width="48" height="48" />
+        <img src="https://cdn.simpleicons.org/css/black" alt="CSS3" width="48" height="48" />
       </picture>
       <br>CSS3
     </td>
