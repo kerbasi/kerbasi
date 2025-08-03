@@ -3,13 +3,13 @@
 ### Full-Stack Developer with a Strong Engineering Background
 
 <a href="https://www.linkedin.com/in/kirill-novikov-312b73163/">
-  <img align="left" alt="Kirill Novikov | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Kirill Novikov | LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/white" />
 </a>
 <a href="https://t.me/Kerbasi">
-  <img align="left" alt="Kirill Novikov | Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Kirill Novikov | Telegram" width="24px" src="https://cdn.simpleicons.org/telegram/white" />
 </a>
 <a href="mailto:kirill.novikov@gmail.com">
-  <img align="left" alt="Kirill Novikov | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Kirill Novikov | Email" width="24px" src="https://cdn.simpleicons.org/gmail/white" />
 </a>
 <br />
 <br />
@@ -19,76 +19,96 @@ I'm a Full-Stack Developer who transitioned into IT after a successful 17-year c
 After completing my studies at **Yandex Practicum**, I gained practical experience through freelance projects. Currently, I am a **Full-Stack Developer** on the **[GearShare](https://github.com/DanielVihorev/GearShare-Site)** project, where I contribute to both front-end and back-end development.
 
 - 🔭 I’m currently building and improving the **GearShare** platform.
-- 🌱 I’m always expanding my skillset, with a focus on modern web technologies.
+- 🌱 I’m always expanding my skillset, with a focus on modern web technologies and leveraging **AI in development via prompt engineering**.
 - 👯 I’m open to collaborating on interesting and challenging projects.
 - 📫 How to reach me: **kirill.novikov@gmail.com** or **+972 55-770-3152**
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack (Dark & Light Mode Friendly)
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/html5/black">
+        <img src="https://cdn.simpleicons.org/html5/black" alt="HTML5" width="48" height="48" />
+      </picture>
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css3/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css3/black">
+        <img src="https://cdn.simpleicons.org/css3/black" alt="CSS3" width="48" height="48" />
+      </picture>
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" alt="Sass" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sass/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sass/black">
+        <img src="https://cdn.simpleicons.org/sass/black" alt="Sass" width="48" height="48" />
+      </picture>
       <br>Sass
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/javascript/black">
+        <img src="https://cdn.simpleicons.org/javascript/black" alt="JavaScript" width="48" height="48" />
+      </picture>
       <br>JavaScript
     </td>
      <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/black">
+        <img src="https://cdn.simpleicons.org/typescript/black" alt="TypeScript" width="48" height="48" />
+      </picture>
       <br>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/black">
+        <img src="https://cdn.simpleicons.org/react/black" alt="React" width="48" height="48" />
+      </picture>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/black">
+        <img src="https://cdn.simpleicons.org/python/black" alt="Python" width="48" height="48" />
+      </picture>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/black">
+        <img src="https://cdn.simpleicons.org/git/black" alt="Git" width="48" height="48" />
+      </picture>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+        <img src="https://cdn.simpleicons.org/github/black" alt="GitHub" width="48" height="48" />
+      </picture>
       <br>GitHub
     </td>
      <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" alt="Figma" width="48" height="48" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/figma/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/figma/black">
+        <img src="https://cdn.simpleicons.org/figma/black" alt="Figma" width="48" height="48" />
+      </picture>
       <br>Figma
     </td>
   </tr>
