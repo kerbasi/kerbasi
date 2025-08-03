@@ -65,6 +65,8 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       </picture>
       <br>Sass
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white">
@@ -73,7 +75,7 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       </picture>
       <br>JavaScript
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/white">
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/black">
@@ -81,8 +83,6 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       </picture>
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/white">
@@ -90,6 +90,16 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
         <img src="https://cdn.simpleicons.org/react/black" alt="React" width="48" height="48" />
       </picture>
       <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nodedotjs/black">
+        <img src="https://cdn.simpleicons.org/nodedotjs/black" alt="Node.js" width="48" height="48" />
+      </picture>
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <picture>
@@ -99,6 +109,16 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       </picture>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/black">
+        <img src="https://cdn.simpleicons.org/tailwindcss/black" alt="Tailwind CSS" width="48" height="48" />
+      </picture>
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/white">
@@ -115,7 +135,7 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       </picture>
       <br>GitHub
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/figma/white">
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/figma/black">
@@ -149,4 +169,20 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
 - **Yandex Practicum** - *Web Developer* (Completed)
 - **Udemy** - *Advanced CSS and Sass* (2023)
 - **Harvard CS50** - *Introduction to Computer Science* (2020)
-- **Moscow Aviation Institute** - *Engineer's Degree* (2000 - 20
+- **Moscow Aviation Institute** - *Engineer's Degree* (2000 - 2006)
+
+---
+
+### 🌐 Languages
+
+- **Russian:** Native
+- **English:** Upper-Intermediate (B2)
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerbasi&show_icons=true&theme=radical" alt="Kirill's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerbasi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
