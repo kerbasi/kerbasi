@@ -43,25 +43,25 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/html5/black">
-        <img src="https://cdn.simpleicons.org/html5/black" alt="HTML5" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/html5.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/html5.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/html5.svg?color=black&width=48&height=48" alt="HTML5" />
       </picture>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css3/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css3/black">
-        <img src="https://cdn.simpleicons.org/css/black" alt="CSS3" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/css3.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/css3.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/css3.svg?color=black&width=48&height=48" alt="CSS3" />
       </picture>
       <br>CSS3
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sass/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sass/black">
-        <img src="https://cdn.simpleicons.org/sass/black" alt="Sass" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/sass.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/sass.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/sass.svg?color=black&width=48&height=48" alt="Sass" />
       </picture>
       <br>Sass
     </td>
@@ -69,25 +69,25 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/javascript/black">
-        <img src="https://cdn.simpleicons.org/javascript/black" alt="JavaScript" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-javascript.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-javascript.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/language-javascript.svg?color=black&width=48&height=48" alt="JavaScript" />
       </picture>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/black">
-        <img src="https://cdn.simpleicons.org/typescript/black" alt="TypeScript" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-typescript.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-typescript.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/language-typescript.svg?color=black&width=48&height=48" alt="TypeScript" />
       </picture>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/black">
-        <img src="https://cdn.simpleicons.org/react/black" alt="React" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/react.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/react.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/react.svg?color=black&width=48&height=48" alt="React" />
       </picture>
       <br>React
     </td>
@@ -95,25 +95,25 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nodedotjs/black">
-        <img src="https://cdn.simpleicons.org/nodedotjs/black" alt="Node.js" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/nodejs.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/nodejs.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/nodejs.svg?color=black&width=48&height=48" alt="Node.js" />
       </picture>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/black">
-        <img src="https://cdn.simpleicons.org/python/black" alt="Python" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/python.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/python.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/python.svg?color=black&width=48&height=48" alt="Python" />
       </picture>
       <br>Python
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/black">
-        <img src="https://cdn.simpleicons.org/tailwindcss/black" alt="Tailwind CSS" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/tailwind.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/tailwind.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/tailwind.svg?color=black&width=48&height=48" alt="Tailwind CSS" />
       </picture>
       <br>Tailwind CSS
     </td>
@@ -121,25 +121,25 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/black">
-        <img src="https://cdn.simpleicons.org/git/black" alt="Git" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/git.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/git.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/git.svg?color=black&width=48&height=48" alt="Git" />
       </picture>
       <br>Git
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
-        <img src="https://cdn.simpleicons.org/github/black" alt="GitHub" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/github.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/github.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/github.svg?color=black&width=48&height=48" alt="GitHub" />
       </picture>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/figma/white">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/figma/black">
-        <img src="https://cdn.simpleicons.org/figma/black" alt="Figma" width="48" height="48" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/figma.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/figma.svg?color=black&width=48&height=48">
+        <img src="https://api.iconify.design/mdi/figma.svg?color=black&width=48&height=48" alt="Figma" />
       </picture>
       <br>Figma
     </td>
