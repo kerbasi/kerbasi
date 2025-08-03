@@ -45,7 +45,7 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/html5.svg?color=white&width=48&height=48">
         <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/html5.svg?color=black&width=48&height=48">
-        <img src="https://api.iconify.design/mdi/html5.svg?color=black&width=48&height=48" alt="HTML5" />
+        <img src="https://api.iconify.design/mdi/html.svg?color=black&width=48&height=48" alt="HTML5" />
       </picture>
       <br>HTML5
     </td>
