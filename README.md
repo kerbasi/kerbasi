@@ -43,16 +43,16 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/html5.svg?color=white&width=48&height=48">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/html5.svg?color=black&width=48&height=48">
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-html5.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-html5.svg?color=black&width=48&height=48">
         <img src="https://api.iconify.design/mdi/html.svg?color=black&width=48&height=48" alt="HTML5" />
       </picture>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/css3.svg?color=white&width=48&height=48">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/css3.svg?color=black&width=48&height=48">
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-css3.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-css3.svg?color=black&width=48&height=48">
         <img src="https://api.iconify.design/mdi/css3.svg?color=black&width=48&height=48" alt="CSS3" />
       </picture>
       <br>CSS3
@@ -103,8 +103,8 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/python.svg?color=white&width=48&height=48">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/python.svg?color=black&width=48&height=48">
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-python.svg?color=white&width=48&height=48">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-python.svg?color=black&width=48&height=48">
         <img src="https://api.iconify.design/mdi/python.svg?color=black&width=48&height=48" alt="Python" />
       </picture>
       <br>Python
@@ -137,8 +137,8 @@ After completing my studies at **Yandex Practicum**, I gained practical experien
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/figma.svg?color=white&width=48&height=48">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/figma.svg?color=black&width=48&height=48">
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/figma.svg?color=white&width=40&height=40">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/figma.svg?color=black&width=40&height=40">
         <img src="https://api.iconify.design/mdi/figma.svg?color=black&width=48&height=48" alt="Figma" />
       </picture>
       <br>Figma
